@@ -1,0 +1,13 @@
+C:\Users\const\source\repos\postFX1\postFX1\bin\Debug\postFX1.exe.config
+C:\Users\const\source\repos\postFX1\postFX1\bin\Debug\postFX1.exe
+C:\Users\const\source\repos\postFX1\postFX1\bin\Debug\postFX1.pdb
+C:\Users\const\source\repos\postFX1\postFX1\bin\Debug\NvAPIWrapper.dll
+C:\Users\const\source\repos\postFX1\postFX1\bin\Debug\NvAPIWrapper.xml
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.Form1.resources
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.Properties.Resources.resources
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.csproj.GenerateResource.cache
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.csproj.Up2Date
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.exe
+C:\Users\const\source\repos\postFX1\postFX1\obj\Debug\postFX1.pdb
